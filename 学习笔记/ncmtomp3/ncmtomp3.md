@@ -18,8 +18,8 @@ endlocal
 
 ​    以上两个文件是同ncm文件放在同一个目录，然后运行bat就行，bat的作用主要是利用命令批量转换，不用一个一个来搞
 
-![result](.\images\ls.bmp)
-![result](.\images\ls1.bmp)
-![result](.\images\doing.bmp)
-![result](.\images\end.bmp)
+![result](./images/ls.bmp)
+![result](./images/ls1.bmp)
+![result](./images/doing.bmp)
+![result](./images/end.bmp)
 
